@@ -15,7 +15,7 @@ To study and implement the concept of **Exception Handling** in C++.
 
 ---
 
-## Detailed Theory
+## Theory
 
 ### What is Exception Handling?
 - Exceptions are **runtime anomalies** that interrupt the normal flow of a program.  
