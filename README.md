@@ -13,7 +13,14 @@ To study and implement the concept of **Exception Handling** in C++.
 - Differentiate between normal program termination and exception-based termination.
 - Implement exception handling for common errors such as division by zero and underage voting.
 
----
+## Algorithm 
+
+    1. Identify risky code.
+    2. Wrap risky code in a try block.
+    3. Use throw to raise exceptions when errors occur.
+    4. Use one or more catch blocks to handle exceptions.
+    5. Handle the exception (e.g., log, notify, recover).
+    6. Continue program execution after the catch block.
 
 ## Theory
 
