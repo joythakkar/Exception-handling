@@ -1,6 +1,3 @@
-//Ishika Singhal
-//PRN: 24070123048
-//Code:
 
 #include <iostream>
 using namespace std;
